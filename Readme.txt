@@ -11,5 +11,5 @@ You will get:
 
 
 Easy to install. 
-
+Just install it, open console and type - DIMupdate, than press F3 and enjoy!
 Do not forget to turn off any anti-virus program or install will be blocked.
